@@ -33,6 +33,9 @@ By default every property of your view is automatically available in the templat
       template: ...
     });
 
+
+:)
+
 Then in your template:
 
     {{greeting}} {{location}}
